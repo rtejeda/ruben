@@ -4,5 +4,14 @@ body{
 }
 
 h1{
-  color: blue;
+  color: #0022FF;
+}
+
+h2{
+  font-weight: normal;
+  color: #ff0000;
+}
+
+h3{
+  color: #000000;
 }
